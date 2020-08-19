@@ -1,0 +1,42 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.header__image{
+   height: 40px;
+   width: 200px;
+}
+.header__username{
+    display: flex;
+    justify-content: space-around !important;
+}
+.header__username > h4{
+   margin-right: 10px;
+}
+.header__main{
+    margin-left: -10rem;
+}
+.header__home{
+    margin-left: -7rem;
+    
+}
+
+.haeder__button{
+    background-color: #ff0054 !important;
+    border: none !important;
+    color: white !important;
+    font-weight: 900 !important;
+    text-transform: inherit !important;
+    border-radius: 30px !important;
+    height: 40px !important;
+}
+.header__search{
+    margin-right: -11rem;
+}
+
+.header__notify{
+    margin-left: -11rem;
+}

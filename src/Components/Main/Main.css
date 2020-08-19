@@ -1,0 +1,115 @@
+.main{
+    flex-direction: column;
+    flex: 0.5;
+}
+.main__card{
+    border-radius: 20px !important;
+    margin-top: 10px;
+}
+
+.main__card__img{
+    width: 10%;
+    height: 40px;
+    border-radius: 10px !important;
+}
+.main__card__img1{
+    width: 30%;
+    height: 20%;
+    border-radius: 10px !important;
+}
+.main__card__img2{
+    width: 50%;
+    height: 50%;
+    margin-top: 20px;
+    border-radius: 30px !important;
+}
+.main__card__content{
+    display: flex;
+    padding: 10px !important;
+    margin: 20px;
+}
+.main__card__content1{
+    display: flex;
+    padding: 25px !important;
+    margin: 20px;
+    margin-top: 10px;
+    border: 1px solid #ced4da;
+    border-radius: 30px !important;
+}
+.main__card__content2{
+    display: flex;
+    justify-content: space-around!important;
+    padding: 25px !important;
+    margin: 20px;
+    margin-top: 10px;
+    border: 1px solid #ced4da;
+    border-radius: 30px !important;
+}
+.main__card__content3{
+    display: flex;
+    padding: 25px !important;
+    margin: 20px;
+    margin-left: 60px;
+    margin-top: 10px;
+    border: 1px solid #ced4da;
+    border-radius: 30px !important;
+}
+.main__card__right{
+    margin-left: 1rem;
+}
+.main__card__right2{
+    margin-left: -3rem;
+}
+.main__card__button{
+    margin-top: 10px;
+    justify-content: space-between !important;
+}
+.main__button1{
+    background-color: #8900f2 !important;
+    border: none !important;
+    color: white !important;
+    font-weight: 900 !important;
+    text-transform: inherit !important;
+    border-radius: 30px !important;
+    height: 30px !important;
+}
+.main__button2{
+    margin-left: 10px  !important;
+    margin-right: 10px  !important;
+    background-color: #ffbd00 !important;
+    border: none !important;
+    color: white !important;
+    font-weight: 900 !important;
+    text-transform: inherit !important;
+    border-radius: 30px !important;
+    height: 30px !important;
+}
+.main__button3{
+    background-color: #08a045 !important;
+    border: none !important;
+    color: white !important;
+    font-weight: 900 !important;
+    text-transform: inherit !important;
+    border-radius: 30px !important;
+    height: 30px !important;
+}
+.main__card__icons{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+.main__card__icon1{
+    display: flex;
+    margin-left: 20px;
+}
+.main__card__icon2{
+    display: flex;
+    margin-right: 20px;
+}
+.main__card__icon1__space{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.main__card__icon1__love{
+   color: #ff0054;
+}
